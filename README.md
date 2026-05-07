@@ -4,7 +4,7 @@
 This project is a 2D interactive simulator developed using Python and Pygame. The primary objective is to design and implement a "Smart Rescue Drone". The project features two distinct modes: a Manual Mode (Human Agent) to demonstrate the UI and game dynamics, and an Autonomous Mode (Utility-based Agent) that balances trade-offs between maximizing rescue operations speed and conserving battery power.
 
 ## 📁 Project Files
-- `drone_sim.py`: Manual play mode (Human Agent) where the user controls the drone via keyboard.
+- `drone_sim1.py`: Manual play mode (Human Agent) where the user controls the drone via keyboard.
 - `drone_sim2.py`: Autonomous AI mode (Utility-Based Agent) using Manhattan Distance for path evaluation (Algorithm 3).
 
 ## ⚙️ Requirements
@@ -13,7 +13,7 @@ This project is a 2D interactive simulator developed using Python and Pygame. Th
 
 ## 🎮 How to Run & Play
 
-**1. Manual Mode (`drone_sim.py`)**
+**1. Manual Mode (`drone_sim1.py`)**
 - Press the `SPACE` bar to start/restart.
 - **Movement:** Use Arrow Keys (Up, Down, Left, Right) to control the drone's actuators manually.
 
